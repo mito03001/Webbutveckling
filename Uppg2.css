@@ -1,0 +1,32 @@
+body
+{
+    color: red;
+    background-color: white;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1fr 1fr 1fr 
+}
+h1 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+p
+{
+    background-color: blue;
+    color:yellow;
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+}
+
+.program{
+    text-align: right;
+}
+
+.me{
+    border: red;
+    border-style: dotted;
+    border-width: 2px;
+}
